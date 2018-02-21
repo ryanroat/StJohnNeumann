@@ -3,9 +3,11 @@ body {
 }
 
 .content {
+  color: #111;
       padding: 40px;
-      background-color: #ccc;
-      border-color: black;
-      border-width: 2px;
-      border-style: solid;
+      background-color: goldenrod;
+      border-color: darkred;
+      border-width: 10px;
+      border-style: double;
+      font-size: 2rem;
     }
