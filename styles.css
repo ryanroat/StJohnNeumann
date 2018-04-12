@@ -11,3 +11,18 @@ body {
       border-style: double;
       font-size: 2rem;
     }
+
+#title {
+  color:  darkred;
+  text-align: center;
+  padding: 2em;
+}
+#img-caption {
+  font-size: .875em;
+  text-align: center;
+  margin: 2em;
+}
+
+#tribute-info {
+  font-size: 1em;
+}
